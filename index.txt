@@ -1,0 +1,2 @@
+# Pulsar package index (ST1): name kind version size sha256 file summary
+hello	app	0.1	3072	cbc31e2ffb5e81c1a0f6102f86291690649a0fe0c72e38c09e2e7c6d75762719	hello-0.1.pkg	A sample Pulsar package (ST1 test)
