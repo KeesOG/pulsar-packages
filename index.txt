@@ -1,3 +1,4 @@
 # Pulsar package index (ST1): name kind version size sha256 file summary
 calc	app	0.2	3470848	f089d61f43ba2b2acc5ffa8e147ceca71d551978da99a8c8024c8450596c1cb0	calc-0.2.pkg	A fast calculator
+calc	app	0.3	3472896	5b6754af69caa151dd429356552afb48785b2a6d248320cf4b295ce607756870	calc-0.3.pkg	A fast calculator
 hello	app	0.1	3072	cbc31e2ffb5e81c1a0f6102f86291690649a0fe0c72e38c09e2e7c6d75762719	hello-0.1.pkg	A sample Pulsar package (ST1 test)
