@@ -9,5 +9,7 @@ browser	app	0.7	9588224	49e53a16e84b3dc9d9e6f82e5963f57c4adc0c65437ef3725d1ba5f2
 calc	app	0.2	3470848	f089d61f43ba2b2acc5ffa8e147ceca71d551978da99a8c8024c8450596c1cb0	calc-0.2.pkg	A fast calculator
 calc	app	0.3	3472896	5b6754af69caa151dd429356552afb48785b2a6d248320cf4b295ce607756870	calc-0.3.pkg	A fast calculator
 chat	app	0.1	9103872	1a5a962711e037915390147d6940957a4d13e2e28323acbef902cc624cb4bb90	chat-0.1.pkg	Matrix chat: rooms, messages, any homeserver
+chat	app	0.2	9104384	10331cbf717ef89269a5a7f386b3f06a9b060b8c64323f2953e6604391d3c892	chat-0.2.pkg	Matrix chat: rooms, messages, any homeserver
 notes	app	0.1	3544576	efce573616354baa259513329555fabc8c5fdaa683ee0a261aa54a5554eb4be6	notes-0.1.pkg	Quick notes, saved as you type
 notes	app	0.2	3546112	02450a71c39471739c9fc95598b67b487278ba1b3f420b4f8f751874283e4c8f	notes-0.2.pkg	Quick notes, saved as you type
+notes	app	0.3	3547136	7f9430a4e1264e2d170633456c22194745b265cc8fd192159fbd4682239f86b6	notes-0.3.pkg	Quick notes, saved as you type
