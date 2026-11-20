@@ -2,6 +2,7 @@
 browser	app	0.1	8786944	9337ec14bd6c606be756acf8266afd791961bc4657301236e618ccbae92a68cc	browser-0.1.pkg	A light, fast web browser with ad blocking
 browser	app	0.2	8787456	b23485f0d4e13f15129a9a89f5d75e45883ceda9ddddcce266f088bc02e689f6	browser-0.2.pkg	A light, fast web browser with ad blocking
 browser	app	0.3	8821760	150ea03ee1f829948c8681a53de7777eec8b91a06c5be1bf42af314e3ad320b5	browser-0.3.pkg	A light, fast web browser with ad blocking
+browser	app	0.4	9398272	6c221d62a42ab86d8ab9284bc92b0f5d3a63f22dcdff2188e1e745fcc996530d	browser-0.4.pkg	A light, fast web browser with ad blocking
 calc	app	0.2	3470848	f089d61f43ba2b2acc5ffa8e147ceca71d551978da99a8c8024c8450596c1cb0	calc-0.2.pkg	A fast calculator
 calc	app	0.3	3472896	5b6754af69caa151dd429356552afb48785b2a6d248320cf4b295ce607756870	calc-0.3.pkg	A fast calculator
 chat	app	0.1	9103872	1a5a962711e037915390147d6940957a4d13e2e28323acbef902cc624cb4bb90	chat-0.1.pkg	Matrix chat: rooms, messages, any homeserver
